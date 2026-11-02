@@ -1,0 +1,13 @@
+Fontes usadas neste site, hospedadas localmente sob a SIL Open Font License 1.1.
+
+Literata
+Copyright 2017 The Literata Project Authors (https://github.com/googlefonts/literata)
+
+Lexend
+Copyright 2018 The Lexend Project Authors (https://github.com/googlefonts/lexend),
+with Reserved Font Name "RevReading Lexend".
+
+Caveat (recortada com apenas as letras da frase do rodapé)
+Copyright 2014 The Caveat Project Authors (https://github.com/googlefonts/caveat)
+
+Texto completo da licenca: https://openfontlicense.org/open-font-license-official-text/
